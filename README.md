@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello there! 😊
+
+Senior Fullstack Developer with 4+ years of experience building complex web applications using Vue.js, JavaScript, and
+TypeScript, with a strong focus on frontend architecture and additional experience in backend development with Node.js
+and Express. Experienced in designing modular frontend systems, integrating external services, and developing full-stack
+application features.
+
+Sometimes learning something new, currently i'm learn Godot and trying do my own little games 🌚
 
 <!--
 **ioganXVII/ioganXVII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
